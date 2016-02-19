@@ -3,7 +3,6 @@ This is first noSandwich
 remote repo give message to local
 
 what is your name 
-test diff
 
 dddddddddddddddddd
 ffffffffffffffffffasdfasfas
